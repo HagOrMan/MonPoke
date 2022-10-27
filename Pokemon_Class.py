@@ -38,7 +38,7 @@ def decide_name(image: str):
 
 class Pokemon:
     def __init__(
-        self, winWidth: int, winHeight: int, poke_type: str, image="eevee_close.png"
+        self, winWidth: int, winHeight: int, poke_type: str, image="pokemon_pics/eevee_close.png"
     ):
         self.winWidth = winWidth
         self.winHeight = winHeight

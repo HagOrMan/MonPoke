@@ -110,3 +110,4 @@ poke_108-Rhyperior-ground,rock-27-427.0-8 9 14-68.89-9/26/2022-3
 poke_109-Milotic-water-23-536.57-9 8 15-71.11-9/26/2022-4
 poke_110-Entei-fire-20-50.85-6 2 6-31.11-9/26/2022-1
 poke_111-Gyarados-water,flying-25-978.88-12 15 15-93.33-9/26/2022-5
+poke_112-Jirachi-steel,psychic-25-897.97-11 14 15-88.89-10/27/2022-5
